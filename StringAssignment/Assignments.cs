@@ -11,7 +11,6 @@ namespace StringAssignment
         public static string GetFirstWord(string sentence)
         {
             //Assignment 1: Return the first word of the sentence.
-            return sentence.Split(' ')[0];
             throw new NotImplementedException();
         }
 
